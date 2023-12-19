@@ -3,14 +3,14 @@
 Founded in 2023, we are a dynamic tech & sports start-up, goal is simple yet ambitious: **to empower club running and achieve unparalleled success, both commercially and in the sporting arena.**
 
 🌟 **What We Do:**
-   - We innovate at the crossroads of technology and sports, developing cutting-edge solutions with machine learning, LLM and AI that transform the way clubs operate, compete, and succeed.
+   - We innovate at the crossroads of technology and sports, developing cutting-edge solutions with machine learning, LLM, and AI that transform the way clubs operate, compete, and succeed.
    - Our projects range from advanced analytics tools, fan engagement analytics, to state-of-the-art management software - all designed to elevate the sports club experience by request.
 
 
 ## 🚀 Contribution Guidelines
 
 ### 1. **Respect the Code, Respect Each Other 🌈**
-   - Write code so clean and neat, it feels like magic! But remember, no fouls and errors - always know what you are doing.
+   - Write clean and neat code. No fouls and errors - always be responsible for what you do
    - Diversity in coding styles, just like in people, makes our project richer. Be kind, be respectful.
 
 ### 2. **Commit and PR Often 🌟**
