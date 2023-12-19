@@ -1,6 +1,6 @@
 ## About Typewind 🚀⚽🏀🏈🎾
 
-Founded in 2023, we are a dynamic tech & sports start-up, goal is simple yet ambitious: **to empower club running and achieve unparalleled success, both commercially and in the sporting arena.**
+Founded in 2023, we are a dynamic tech & sports start-up, goal is simple yet ambitious: **to empower club running and achieve success, both commercially and in the sporting arena.**
 
 🌟 **What We Do:**
    - We innovate at the crossroads of technology and sports, developing cutting-edge solutions with machine learning, LLM, and AI that transform the way clubs operate, compete, and succeed.
