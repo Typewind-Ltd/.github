@@ -3,7 +3,7 @@
 Founded in 2023, we are a dynamic tech & sports start-up, goal is simple yet ambitious: **to empower club running and achieve unparalleled success, both commercially and in the sporting arena.**
 
 🌟 **What We Do:**
-   - We innovate at the crossroads of technology and sports, developing cutting-edge solutions that transform the way clubs operate, compete, and succeed.
+   - We innovate at the crossroads of technology and sports, developing cutting-edge solutions with machine learning, LLM and AI that transform the way clubs operate, compete, and succeed.
    - Our projects range from advanced analytics tools, fan engagement analytics, to state-of-the-art management software - all designed to elevate the sports club experience by request.
 
 
